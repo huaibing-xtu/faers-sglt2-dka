@@ -1,0 +1,34 @@
+CITATION:
+---------
+
+@software{faers_sglt2_dka_2026,
+  author       = {Research Team},
+  title        = {FAERS SGLT2-DKA Analysis: Signal Detection and Explainable Machine Learning},
+  month        = jan,
+  year         = 2026,
+  version      = {2.0.0},
+  doi          = {10.5281/zenodo.xxxxxx},
+  url          = {https://github.com/huaibing-xtu/faers-sglt2-dka}
+}
+
+BIBTEX:
+-------
+
+@software{faers_sglt2_dka_2026,
+  author    = {Research Team},
+  title     = {FAERS SGLT2-DKA Analysis: Signal Detection and Explainable Machine Learning},
+  year      = 2026,
+  version   = {2.0.0},
+  url       = {https://github.com/huaibing-xtu/faers-sglt2-dka},
+  doi       = {10.5281/zenodo.xxxxxx}
+}
+
+TEXT:
+-----
+
+For papers citing this work:
+
+"Code available at: https://github.com/huaibing-xtu/faers-sglt2-dka"
+
+"For methodology details, see the GitHub repository:
+https://github.com/huaibing-xtu/faers-sglt2-dka"

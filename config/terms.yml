@@ -1,0 +1,65 @@
+# MedDRA Preferred Terms for DKA Detection
+# This file defines the case definition for diabetic ketoacidosis
+
+target_event_terms:
+  core:
+    - Diabetic ketoacidosis
+    - Ketoacidosis
+    - Euglycaemic diabetic ketoacidosis
+    - Diabetic ketosis
+    - Ketosis
+    - Acidosis
+    - Metabolic acidosis
+    - Blood ketone body increased
+
+target_event_terms_extended:
+  core:
+    - Diabetic ketoacidosis
+    - Ketoacidosis
+    - Euglycaemic diabetic ketoacidosis
+    - Diabetic ketosis
+    - Ketosis
+    - Acidosis
+    - Metabolic acidosis
+    - Blood ketone body increased
+  # Additional terms that might indicate DKA but have lower specificity
+  extended:
+    - Hyperglycemia
+    - Blood glucose increased
+    - Ketone body urine positive
+    - Respiratory alkalosis
+    - Anion gap increased
+
+# SGLT2 Inhibitors to monitor
+study_drugs:
+  - Canagliflozin
+  - Dapagliflozin
+  - Empagliflozin
+  - Ertugliflozin
+  - Ipragliflozin
+  - Luseogliflozin
+  - Sotagliflozin
+  - Tofogliflozin
+
+# Drug brand names and alternative spellings
+drug_aliases:
+  Canagliflozin:
+    - Invokana
+    - Invokamet
+  Dapagliflozin:
+    - Farxiga
+    - Forxiga
+    - Xigduo
+  Empagliflozin:
+    - Jardiance
+    - Glipixure
+  Ertugliflozin:
+    - Steglatro
+  Ipragliflozin:
+    - Suglat
+  Luseogliflozin:
+    - Lusefi
+  Sotagliflozin:
+    - Inkemta
+  Tofogliflozin:
+    - Tanverza
