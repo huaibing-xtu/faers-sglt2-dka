@@ -288,7 +288,7 @@ This software is provided for academic research purposes only.
 - **GitHub Issues**: For bugs, questions, or feature requests
 - **Documentation**: See `scripts/README.md` for detailed script usage
 - **Chinese Documentation**: See `README-cn.md` for Chinese version
-- **Email**: huaibing@xtu.edu.cn
+- **Email**: 202521623377@smail.xtu.edu.cn
 
 ## 🌟 Star This Project
 
